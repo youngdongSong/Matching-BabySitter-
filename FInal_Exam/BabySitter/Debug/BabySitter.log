@@ -1,0 +1,13 @@
+﻿  SitterHandler.cpp
+  Sitter.cpp
+c:\users\sos94\onedrive\바탕 화면\고프 프로젝트\베이비시터\final_exam\babysitter\sitter.cpp(97): warning C4101: 'name' :참조되지 않은 지역 변수입니다.
+c:\users\sos94\onedrive\바탕 화면\고프 프로젝트\베이비시터\final_exam\babysitter\sitter.cpp(99): warning C4101: 'sex' :참조되지 않은 지역 변수입니다.
+c:\users\sos94\onedrive\바탕 화면\고프 프로젝트\베이비시터\final_exam\babysitter\sitter.cpp(101): warning C4101: 'specialty' :참조되지 않은 지역 변수입니다.
+c:\users\sos94\onedrive\바탕 화면\고프 프로젝트\베이비시터\final_exam\babysitter\sitter.cpp(100): warning C4101: 'time' :참조되지 않은 지역 변수입니다.
+c:\users\sos94\onedrive\바탕 화면\고프 프로젝트\베이비시터\final_exam\babysitter\sitter.cpp(98): warning C4101: 'age' :참조되지 않은 지역 변수입니다.
+  ParentHandler.cpp
+  Parent.cpp
+  MainHandler.cpp
+  Main.cpp
+  코드를 생성하고 있습니다...
+  BabySitter.vcxproj -> C:\Users\sos94\OneDrive\바탕 화면\고프 프로젝트\베이비시터\FInal_Exam\Debug\BabySitter.exe
